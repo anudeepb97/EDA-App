@@ -1,24 +1,24 @@
-Create conda environment
+#Create conda environment
 
-Firstly, we will create a conda environment called eda
+##Firstly, we will create a conda environment called eda
 
 conda create -n eda python=3.7.9
 
-Secondly, we will login to the eda environement
+##Secondly, we will login to the eda environement
 
 conda activate eda
 
-Install prerequisite libraries
+##Install prerequisite libraries
 
 Download requirements.txt file
 
 wget https://github.com/anudeepb97/EDA-App.git
 
-Pip install libraries
+##Pip install libraries
 
 pip install -r requirements.txt
 
-Download and unzip contents from GitHub repo
+##Download and unzip contents from GitHub repo
 
 Download and unzip contents from https://codeload.github.com/anudeepb97/EDA-App/zip/main
 Launch the app
