@@ -5,7 +5,7 @@
 
 conda create -n eda python=3.7.9
 
-## Secondly, we will login to the eda environement
+## Secondly, we will login to the eda environment
 
 conda activate eda
 
